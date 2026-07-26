@@ -1,0 +1,13 @@
+{
+  "title": "Leo_the_Little_Robot",
+  "scenes": [
+    {
+      "text": "Leo was a small blue robot who loved to explore.",
+      "image_prompt": "cute small blue robot with big eyes, cartoon style, sunny garden"
+    },
+    {
+      "text": "One day he found a shiny key in the grass.",
+      "image_prompt": "cute robot finding a golden key in grass, cartoon style"
+    }
+  ]
+}
